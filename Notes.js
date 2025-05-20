@@ -8,3 +8,9 @@
 //create .gitignore file and add files that you don't want to push to github
 
 //* create database
+//mongodb setup
+//? connection string - mongodb+srv://snehajadon2003:<db_password>@cluster0.xsr3m.mongodb.net/
+//password - Sneha@db25
+
+//! step2
+//create client using vite 
