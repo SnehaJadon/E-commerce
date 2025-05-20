@@ -9,8 +9,15 @@
 
 //* create database
 //mongodb setup
-//? connection string - mongodb+srv://snehajadon2003:<db_password>@cluster0.xsr3m.mongodb.net/
-//password - Sneha@db25
+//? connection string 
+const uri = "mongodb+srv://snehajadon2003:snehajadon2025@cluster0.ttcfo9m.mongodb.net/"
 
 //! step2
 //create client using vite 
+
+//! step3
+// configure service.js
+//create app using express , port , app.listen, mongodb connection, 
+//app.use cors[configure], cookie-parser, express.json
+//configure package.json scripts dependencies 
+
