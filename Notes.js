@@ -21,3 +21,10 @@ const uri = "mongodb+srv://snehajadon2003:snehajadon2025@cluster0.ttcfo9m.mongod
 //app.use cors[configure], cookie-parser, express.json
 //configure package.json scripts dependencies 
 
+//! step4 
+//client setup install packages that gonna use later 
+npm i @reduxjs/toolkit react-redux axios react-router-dom 
+
+//! step5
+// install/configure shadcn component library 
+
